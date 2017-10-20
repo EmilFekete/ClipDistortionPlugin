@@ -15,6 +15,9 @@ public:
 
 private:
   double mGain;
+	double mMix;
+	double mOutputVolume;
+	double mThreshold;
 };
 
 #endif
